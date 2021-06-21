@@ -1,7 +1,9 @@
 ---
-title: Hi! I'm Sharon
+title: Home
 layout: home
 ---
+
+## Hi! I'm Sharon
 
 I'm a researcher in linguistics and education with a background in Cantonese (and) acoustic phonetics and language teaching.
 
